@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SharpRayTracer": {
+      "commandName": "Project",
+      "workingDirectory": "bin"
+    }
+  }
+}
