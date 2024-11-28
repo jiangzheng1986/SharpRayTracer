@@ -1,4 +1,4 @@
-A ray tracer program by C# language, which basically based on <<Ray Trancing In One Weekend>>
+A ray tracer program by C# language, which basically based on Ray Trancing In One Weekend
 
 ![1](https://github.com/user-attachments/assets/3c56fd53-9819-4549-ba3d-81426de3e122)
 
